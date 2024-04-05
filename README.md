@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hsin</h1>
-<h3 align="center">A normal Machine Learning engineer from Taiwan</h3>
+<h3 align="center">A normal Machine Learning Engineer from Taiwan</h3>
 
 - 🌱 I’m currently learning **Image Foundation Model Training**
 
-- 🤝 I’m looking for help with **Computer Vision related tasks (such as Object detection, Image generation, Image Segmentation)**
+- 🤝 I’m looking for help with **Computer Vision related tasks (such as Object Detection, Image Generation, Image Segmentation, etc)**
 
 - 👨‍💻 All of my projects are available at [https://ouo.ooo](https://ouo.ooo)
 
